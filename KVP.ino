@@ -52,20 +52,3 @@ void loop() {
   delay(150);
 
 }
-/*
-  if (millis() - time_ >= 30000) {
-    if (setpoint == 1700) {
-      setpoint = 1900;
-    } else {
-      setpoint = 1300;
-    }
-
-    time_ = millis();
-  }
-*/
-float convertinput(float input)
-{
-  float angle;
-  //angle = 
-  return angle;
-}
